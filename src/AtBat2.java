@@ -64,6 +64,7 @@ public class AtBat2 {
                 }
                 System.out.println("Calculate again? (y/n)");
                 loop = scnr.nextLine();
+                loop = scnr.nextLine();
             }
             else {
                 System.out.println("Number larger than 0 only");
